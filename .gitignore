@@ -27,10 +27,7 @@ ENV/
 # ==============================
 # Model Files (Do NOT push trained models)
 # ==============================
-models/
-*.h5
 *.keras
-*.pkl
 
 # ==============================
 # Dataset Files (Generated)
